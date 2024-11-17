@@ -1,0 +1,1 @@
+/home/waiting/pg/pgsql/src/backend/catalog/pg_amproc_d.h

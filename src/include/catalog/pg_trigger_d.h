@@ -1,0 +1,1 @@
+/home/waiting/pg/pgsql/src/backend/catalog/pg_trigger_d.h
